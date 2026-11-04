@@ -1,0 +1,240 @@
+[33mcommit 10bbaa90a0ce85613e2b766ac688da4fbd6f127a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m)[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 14:00:49 2026 +0530
+
+    Resolve latest staging conflicts tet
+
+[33mcommit 632405fdf6099ccf76de490fda1b4074585d16ac[m
+Author: shopify[bot] <79544226+shopify[bot]@users.noreply.github.com>
+Date:   Wed Nov 4 08:29:29 2026 +0000
+
+    Update from Shopify for theme TestThemeDev/staging by Abhishek Gautam
+    
+    Committed from shop: Abhishek-Demo
+    Changed by: Abhishek Gautam
+    
+    Files:
+    - modified sections/image-with-text.liquid (editor not recorded)
+    - modified sections/rich-text.liquid (editor not recorded)
+    - modified templates/index.json (Abhishek Gautam)
+
+[33mcommit c5661fd43d121e709f1ac10df2d09d1a8573b09d[m
+Merge: c57985c c9d08da
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 13:56:53 2026 +0530
+
+    Resolve latest staging conflicts
+
+[33mcommit c57985c7876293645d8d52387c3a70ab7599d710[m
+Merge: 79f5ec3 de758a9
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 13:54:21 2026 +0530
+
+    new changes on file and customxier
+
+[33mcommit c9d08dadf84ed004a8a33657a09508d7f32dcf9a[m
+Author: shopify[bot] <79544226+shopify[bot]@users.noreply.github.com>
+Date:   Wed Nov 4 08:23:34 2026 +0000
+
+    Update from Shopify for theme TestThemeDev/staging by Abhishek Gautam
+    
+    Committed from shop: Abhishek-Demo
+    Changed by: Abhishek Gautam
+    
+    Files:
+    - modified templates/index.json (Abhishek Gautam)
+
+[33mcommit 79f5ec39f09407ec02de46c73dec654468f9225d[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 13:45:14 2026 +0530
+
+    new-changes on rich-text with customizer
+
+[33mcommit de758a9fd528abe6207e3dc149fd8fc58eebce34[m
+Author: shopify[bot] <79544226+shopify[bot]@users.noreply.github.com>
+Date:   Wed Nov 4 08:13:10 2026 +0000
+
+    Update from Shopify for theme TestThemeDev/staging by Abhishek Gautam
+    
+    Committed from shop: Abhishek-Demo
+    Changed by: Abhishek Gautam
+    
+    Files:
+    - modified sections/main-product.liquid (editor not recorded)
+    - modified templates/index.json (Abhishek Gautam)
+
+[33mcommit 706d4ca56d523fe762dfa5074cb5ef113592216c[m
+Merge: 9de9c9b 0e0b42c
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 13:41:04 2026 +0530
+
+    solving conflict
+
+[33mcommit 9de9c9b4584a95ab14a4c9b564dcef2fc4d50550[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 13:34:42 2026 +0530
+
+    test
+
+[33mcommit 0e0b42c2deceee56855ca733dc6114f3474c9247[m
+Author: shopify[bot] <79544226+shopify[bot]@users.noreply.github.com>
+Date:   Wed Nov 4 08:04:04 2026 +0000
+
+    Update from Shopify for theme TestThemeDev/staging by Abhishek Gautam
+    
+    Committed from shop: Abhishek-Demo
+    Changed by: Abhishek Gautam
+    
+    Files:
+    - modified sections/footer-group.json (editor not recorded)
+    - modified sections/header-group.json (editor not recorded)
+    - modified config/settings_data.json (editor not recorded)
+    - modified templates/index.json (Abhishek Gautam)
+
+[33mcommit 5fcf5e45648b96267285c34d939d8b9f2b0a732a[m
+Merge: 81d0ec3 6d7150c
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 13:19:42 2026 +0530
+
+    Merge branch 'new-staging' into staging
+
+[33mcommit 6d7150c6edbbe5bfc4fbe6280223589e0a7c0732[m[33m ([m[1;31morigin/new-staging[m[33m, [m[1;32mnew-staging[m[33m)[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Wed Nov 4 12:54:21 2026 +0530
+
+    customized footer section
+
+[33mcommit 910eddfdc1c450704cb0d25bea05f0d8433c1fc1[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 18:36:49 2026 +0530
+
+    added color scheme and apply it on on announcement bar
+
+[33mcommit 81d0ec373214eb09bbe065ad31dc298c7f64abd5[m
+Merge: a52fd15 b6e4670
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 15:12:19 2026 +0530
+
+    Merge pull request #6 from AbhishekG-DevGrowisto/new-staging
+    
+    customizer changes on header and index-temp
+
+[33mcommit b6e46703e936968d6346444a1797bf89323c9f88[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 15:10:55 2026 +0530
+
+    customizer changes on header and index-temp
+
+[33mcommit a52fd15abf726a05f2025cc1c29bdd88051710a9[m
+Merge: 1edb220 e3b8242
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 13:05:11 2026 +0530
+
+    Merge pull request #5 from AbhishekG-DevGrowisto/new-staging
+    
+    testing updated customizer data
+
+[33mcommit e3b824275fb22348736cc2acfe62a488191d4dc4[m
+Merge: 6af8d88 1edb220
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 12:59:38 2026 +0530
+
+    Merge branch 'main' into new-staging
+
+[33mcommit 6af8d880126e8a13d752b641394c37ffb7f30188[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 12:29:49 2026 +0530
+
+    testing updated customizer data
+
+[33mcommit 1edb2200a534a0c59e116331c9cbdbf4e6b8673e[m
+Merge: cac6aa9 a70a9f7
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 12:19:33 2026 +0530
+
+    Merge pull request #4 from AbhishekG-DevGrowisto/new-staging
+    
+    added data-attribute on body tag
+
+[33mcommit a70a9f79d4976ff26fb4fbdf6b42c7af233404cf[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 12:14:45 2026 +0530
+
+    added data-attribute on body tag
+
+[33mcommit cac6aa9f5cad38be8a9a6bf143326552874a5425[m
+Merge: 149c411 25430d5
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 12:03:29 2026 +0530
+
+    Merge pull request #3 from AbhishekG-DevGrowisto/staging
+    
+    changes on the header
+
+[33mcommit 25430d57554f5dfb1ecd91c1badea82500e7d13b[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 12:01:34 2026 +0530
+
+    changes on the header
+
+[33mcommit 149c411f028d0939f5613a38f1c1e3a5c511b3ce[m
+Merge: 81975e8 a26ccf2
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 11:58:28 2026 +0530
+
+    Merge pull request #2 from AbhishekG-DevGrowisto/staging
+    
+    added new attribute in featured prodcut section and also on the foote…
+
+[33mcommit a26ccf225c1f18a9889c68a025b6371156fdec4a[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 11:46:54 2026 +0530
+
+    added new attribute in featured prodcut section and also on the footer section
+
+[33mcommit 81975e85835a372823a5b443fb13898b71d6ce06[m
+Author: shopify[bot] <79544226+shopify[bot]@users.noreply.github.com>
+Date:   Tue Nov 3 06:14:47 2026 +0000
+
+    Update from Shopify for theme TestThemeDev/main by Abhishek Gautam
+    
+    Committed from shop: Abhishek-Demo
+    Changed by: Abhishek Gautam
+    
+    Files:
+    - modified sections/featured-product.liquid (editor not recorded)
+    - modified templates/index.json (Abhishek Gautam)
+
+[33mcommit bba3d1f3165cab35ef1c1935ca65b171a580284c[m
+Merge: 8d1829a f6f1ce2
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Tue Nov 3 11:39:13 2026 +0530
+
+    Merge pull request #1 from AbhishekG-DevGrowisto/staging
+    
+    featured prodcut section changes
+
+[33mcommit f6f1ce259cd0a07898e965d7bb6ffb595bfed7ae[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Tue Nov 3 11:35:15 2026 +0530
+
+    featured prodcut section changes
+
+[33mcommit 8d1829a2742aed2a24cc5625b638e440c091a97e[m[33m ([m[1;31morigin/new-feature[m[33m)[m
+Merge: 7d1bf1b 4d26601
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Mon Nov 2 17:02:21 2026 +0530
+
+    Merge branch 'main' of https://github.com/AbhishekG-DevGrowisto/TestThemeDev
+
+[33mcommit 4d266019cfc0c1d2095d9d192784a27aa7063a25[m
+Author: Abhishek Gautam <abhishek.gautam@growisto.com>
+Date:   Mon Nov 2 16:55:52 2026 +0530
+
+    Initial commit
+
+[33mcommit 7d1bf1b1dab2cdef89d4fd34b77cc137152926da[m
+Author: Abhishek Gautam <aabhishek.gautamm@gmail.com>
+Date:   Mon Nov 2 16:52:09 2026 +0530
+
+    Initial commit of Shopify theme files
