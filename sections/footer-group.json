@@ -13,6 +13,43 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "image_nDUzYF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/young-hip-woman-at-carnival_925x_2f1abb7d-7a4e-47ef-96ad-7cd959784548.jpg",
+            "image_width": 200,
+            "alignment": "center"
+          }
+        },
+        "link_list_LLxiyY": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shop",
+            "menu": "main-menu"
+          }
+        },
+        "link_list_D3wAeB": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "main-menu"
+          }
+        },
+        "link_list_FKA7Hk": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Customers",
+            "menu": "customer-account-main-menu"
+          }
+        }
+      },
+      "block_order": [
+        "image_nDUzYF",
+        "link_list_LLxiyY",
+        "link_list_D3wAeB",
+        "link_list_FKA7Hk"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
