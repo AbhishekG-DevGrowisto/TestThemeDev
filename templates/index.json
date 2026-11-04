@@ -68,7 +68,7 @@
         "button_kF4RaB": {
           "type": "button",
           "settings": {
-            "button_label": "Get it now",
+            "button_label": "Shop Now",
             "button_link": "shopify://products/blue-silk-tuxedo",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -86,7 +86,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-8f52b2f4-eaa3-4098-b707-50f7a94dbcd3",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
